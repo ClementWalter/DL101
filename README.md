@@ -1,4 +1,4 @@
-Project support pour les séances d'introduction au deep learning du court d'option de Géostatistique de Mines Paristech.
+Projet support pour les séances d'introduction au deep learning du court d'option de Géostatistique de Mines Paristech.
 
 Pour installer le project :
 
@@ -19,3 +19,4 @@ cd DL101
 virtualenv venv -p python3
 pip install -r requirements.txt
 ```
+en remplaçant `<username>` par son id GitHub.
